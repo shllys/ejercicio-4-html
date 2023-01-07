@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>"Ganando precisión con los selectores en CSS"</title>
+    <link rel="stylesheet" href="curso.css">
+</head>
+<body>
+    <h1 id="titulo" class="encabezado">lista de la compra</h1>
+    <ul>
+        <li id="elemento-1">Cereal</li>
+        <li id="elemento-2">Chocolate</li>
+        <li id="elemento-3">Galletas</li>
+        <li id="elemento-4">Helado</li>
+        <li id="elemento-5">Refresco</li>
+    </ul>
+    <ol>
+        <li id="elemento-1">Olinpica</li>
+        <li id="elemento-2">D.uno</li>
+        <li id="elemento-3">Gusto y bueno</li>
+        <li id="elemento-4">Tio</li>
+        <li id="elemento-5">Victoria plaza</li>
+    </ol>
+</body>
+</html>
